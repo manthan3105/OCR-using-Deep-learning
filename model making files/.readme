@@ -1,0 +1,4 @@
+In this there are 2 parts.
+new_model_maker.py should be used for making a model for PAN card and AADHAR card.
+
+keras_alphanumeric_model.py should be used for making a model for handwriting recognition.
