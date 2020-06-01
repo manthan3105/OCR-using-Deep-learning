@@ -1,0 +1,5 @@
+Here are 2 files:
+ 
+OCR_dl should be used for PAN cards and AADHAR cards.
+
+page_reader_test should be used for handwriting recognition.
